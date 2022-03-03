@@ -1,5 +1,5 @@
 function sortArray(arr){
     return arr.sort((a,b)=> a.localeCompare(b))
 }
-const arr= ['cat', 'dog', 'elephant', 'bee', 'ant']
+const arr= ['a', 'c', 'b', 'd', 'm']
 console.log(sortArray(arr))
