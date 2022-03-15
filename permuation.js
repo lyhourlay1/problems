@@ -27,7 +27,7 @@ const permutator = (input)=>{
     return result
 }
 
-// console.log(permutator(['c','a','t']))
+// console.log(permutator(['c','a','t','d']))
 
 
 //recursive call till num-1 ===0 
@@ -49,4 +49,4 @@ function allPairs(arr, num){
     })
     return result
 }
-console.log(allPairs(['c','a','t'], 3));
+// console.log(allPairs(['c','a','t'], 3));
