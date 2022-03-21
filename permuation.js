@@ -49,4 +49,4 @@ function allPairs(arr, num){
     })
     return result
 }
-// console.log(allPairs(['c','a','t'], 3));
+console.log(allPairs(['c','a','t'], 3));
